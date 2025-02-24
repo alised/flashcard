@@ -127,7 +127,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 If you have any questions or suggestions, feel free to reach out:
 
-- **GitHub**: [your-username](https://github.com/alised)
+- **GitHub**: [ALISED](https://github.com/alised)
 
 ---
 
