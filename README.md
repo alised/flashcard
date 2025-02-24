@@ -72,6 +72,59 @@ The **English Word Learner App** is a web-based application designed to help use
 
 ---
 
+## Repetition Schedule
+
+The app uses the **Leitner System** to optimize word repetition and improve long-term retention. Here's how it works:
+
+1. **Box 1 (Initial Learning)**:
+   - Words are reviewed **every day for 7 consecutive days**.
+   - If you understand a word correctly each day, it moves to **Box 2**.
+   - If you forget the word at any point, it stays in **Box 1** and the 7-day cycle restarts.
+
+2. **Box 2 (First Review)**:
+   - Words are reviewed **every 2 days**.
+   - If you understand the word correctly, it moves to **Box 3**.
+   - If you forget the word, it goes back to **Box 1** and the 7-day cycle restarts.
+
+3. **Box 3 (Intermediate Review)**:
+   - Words are reviewed **every 4 days**.
+   - If you understand the word correctly, it moves to **Box 4**.
+   - If you forget the word, it goes back to **Box 1** and the 7-day cycle restarts.
+
+4. **Box 4 (Advanced Review)**:
+   - Words are reviewed **every 8 days**.
+   - If you understand the word correctly, it moves to **Box 5**.
+   - If you forget the word, it goes back to **Box 1** and the 7-day cycle restarts.
+
+5. **Box 5 (Mastery)**:
+   - Words are reviewed **every 16 days**.
+   - If you understand the word correctly, it is considered **mastered**.
+   - If you forget the word, it goes back to **Box 1** and the 7-day cycle restarts.
+
+---
+
+### **Key Points**
+- Words start in **Box 1** and are reviewed daily for 7 days.
+- If a word is forgotten at any stage, it goes back to **Box 1**, and the repetition cycle restarts.
+- The intervals between reviews increase as you progress through the boxes, ensuring long-term retention.
+
+---
+
+### **Example Schedule**
+| Box   | Repetition Interval | Next Review (if correct) | If Forgotten          |
+|-------|---------------------|--------------------------|-----------------------|
+| Box 1 | Every day           | Move to Box 2            | Restart 7-day cycle   |
+| Box 2 | Every 2 days        | Move to Box 3            | Go back to Box 1      |
+| Box 3 | Every 4 days        | Move to Box 4            | Go back to Box 1      |
+| Box 4 | Every 8 days        | Move to Box 5            | Go back to Box 1      |
+| Box 5 | Every 16 days       | Mastered                 | Go back to Box 1      |
+
+---
+
+This repetition schedule ensures that words are reviewed at optimal intervals, helping you retain them effectively. If you forget a word at any stage, the app ensures you relearn it thoroughly by restarting the cycle.
+
+---
+
 ### Example JSON for Importing Words
 
 ```json
