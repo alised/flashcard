@@ -1,0 +1,1950 @@
+[
+  {
+    "word": "abandon",
+    "sentence": "They had to abandon the project due to lack of funds."
+  },
+  {
+    "word": "ability",
+    "sentence": "She has the ability to solve complex problems."
+  },
+  {
+    "word": "access",
+    "sentence": "You need a password to access the system."
+  },
+  {
+    "word": "accurate",
+    "sentence": "The data must be accurate."
+  },
+  {
+    "word": "achieve",
+    "sentence": "He worked hard to achieve his goals."
+  },
+  {
+    "word": "acknowledge",
+    "sentence": "He acknowledged his mistake."
+  },
+  {
+    "word": "acquire",
+    "sentence": "She acquired new skills during the training."
+  },
+  {
+    "word": "adapt",
+    "sentence": "Companies must adapt to changing market conditions."
+  },
+  {
+    "word": "advocate",
+    "sentence": "She advocates for women's rights."
+  },
+  {
+    "word": "allocate",
+    "sentence": "Funds were allocated for the new project."
+  },
+  {
+    "word": "alter",
+    "sentence": "They had to alter the plans."
+  },
+  {
+    "word": "ambition",
+    "sentence": "Her ambition is to become a doctor."
+  },
+  {
+    "word": "analyze",
+    "sentence": "Scientists analyze data to draw conclusions."
+  },
+  {
+    "word": "anticipate",
+    "sentence": "We anticipate that sales will rise next year."
+  },
+  {
+    "word": "appreciate",
+    "sentence": "I appreciate your help."
+  },
+  {
+    "word": "approach",
+    "sentence": "We need a new approach to solve this problem."
+  },
+  {
+    "word": "appropriate",
+    "sentence": "The dress is appropriate for the occasion."
+  },
+  {
+    "word": "argue",
+    "sentence": "They often argue about politics."
+  },
+  {
+    "word": "arise",
+    "sentence": "Problems may arise if we don't act soon."
+  },
+  {
+    "word": "assess",
+    "sentence": "We need to assess the situation before making a decision."
+  },
+  {
+    "word": "assign",
+    "sentence": "She was assigned to a new project."
+  },
+  {
+    "word": "assume",
+    "sentence": "Don’t assume anything without proof."
+  },
+  {
+    "word": "assumption",
+    "sentence": "His assumption was proven wrong."
+  },
+  {
+    "word": "attain",
+    "sentence": "He attained his goals through hard work."
+  },
+  {
+    "word": "attribute",
+    "sentence": "He attributes his success to his team."
+  },
+  {
+    "word": "authorize",
+    "sentence": "He was authorized to sign the documents."
+  },
+  {
+    "word": "automate",
+    "sentence": "The process was automated to improve efficiency."
+  },
+  {
+    "word": "available",
+    "sentence": "The report is available online."
+  },
+  {
+    "word": "avoid",
+    "sentence": "Try to avoid unnecessary conflicts."
+  },
+  {
+    "word": "background",
+    "sentence": "His background is in engineering."
+  },
+  {
+    "word": "behavior",
+    "sentence": "His behavior was commendable."
+  },
+  {
+    "word": "benefit",
+    "sentence": "Regular exercise has many benefits."
+  },
+  {
+    "word": "category",
+    "sentence": "Please select a category for your question."
+  },
+  {
+    "word": "commitment",
+    "sentence": "She showed great commitment to her work."
+  },
+  {
+    "word": "concept",
+    "sentence": "The concept of gravity was explained in the lecture."
+  },
+  {
+    "word": "consequence",
+    "sentence": "His actions had serious consequences."
+  },
+  {
+    "word": "contrast",
+    "sentence": "There is a stark contrast between the two."
+  },
+  {
+    "word": "contribute",
+    "sentence": "He contributed to the success of the project."
+  },
+  {
+    "word": "convert",
+    "sentence": "You can convert the file to a different format."
+  },
+  {
+    "word": "coordinate",
+    "sentence": "They coordinated the event together."
+  },
+  {
+    "word": "core",
+    "sentence": "The core of the problem is lack of communication."
+  },
+  {
+    "word": "corporate",
+    "sentence": "Corporate social responsibility is important."
+  },
+  {
+    "word": "correct",
+    "sentence": "Please correct the errors in the document."
+  },
+  {
+    "word": "cost",
+    "sentence": "The cost of living has increased."
+  },
+  {
+    "word": "criterion",
+    "sentence": "The main criterion for selection is experience."
+  },
+  {
+    "word": "criticize",
+    "sentence": "It’s easy to criticize but hard to create."
+  },
+  {
+    "word": "crucial",
+    "sentence": "It's crucial to follow the guidelines."
+  },
+  {
+    "word": "culture",
+    "sentence": "The company's culture encourages innovation."
+  },
+  {
+    "word": "cycle",
+    "sentence": "The water cycle is essential to life on Earth."
+  },
+  {
+    "word": "data",
+    "sentence": "We need more data to draw accurate conclusions."
+  },
+  {
+    "word": "debate",
+    "sentence": "They had a lively debate on the topic."
+  },
+  {
+    "word": "decisive",
+    "sentence": "A decisive leader is needed in times of crisis."
+  },
+  {
+    "word": "dedicate",
+    "sentence": "She dedicated her life to research."
+  },
+  {
+    "word": "deficit",
+    "sentence": "The budget deficit needs to be addressed."
+  },
+  {
+    "word": "define",
+    "sentence": "Please define the term 'sustainability'."
+  },
+  {
+    "word": "delegate",
+    "sentence": "He delegated tasks to his team members."
+  },
+  {
+    "word": "demographic",
+    "sentence": "The demographic data shows an aging population."
+  },
+  {
+    "word": "demonstrate",
+    "sentence": "He demonstrated the experiment to the class."
+  },
+  {
+    "word": "denote",
+    "sentence": "The red color denotes danger."
+  },
+  {
+    "word": "depend",
+    "sentence": "Success depends on hard work."
+  },
+  {
+    "word": "deploy",
+    "sentence": "The troops were deployed to the front line."
+  },
+  {
+    "word": "derive",
+    "sentence": "Many English words are derived from Latin."
+  },
+  {
+    "word": "deserve",
+    "sentence": "She deserves to be recognized for her efforts."
+  },
+  {
+    "word": "desirable",
+    "sentence": "It's desirable to have relevant experience."
+  },
+  {
+    "word": "destination",
+    "sentence": "Paris is a popular tourist destination."
+  },
+  {
+    "word": "destiny",
+    "sentence": "He believed it was his destiny to become a doctor."
+  },
+  {
+    "word": "detailed",
+    "sentence": "She gave a detailed account of the incident."
+  },
+  {
+    "word": "determine",
+    "sentence": "We need to determine the cause of the problem."
+  },
+  {
+    "word": "develop",
+    "sentence": "The city plans to develop new parks."
+  },
+  {
+    "word": "deviation",
+    "sentence": "There was a deviation from the original plan."
+  },
+  {
+    "word": "devote",
+    "sentence": "He devoted his life to helping others."
+  },
+  {
+    "word": "diagnose",
+    "sentence": "The doctor will diagnose your condition."
+  },
+  {
+    "word": "dialogue",
+    "sentence": "The movie has excellent dialogue."
+  },
+  {
+    "word": "dimension",
+    "sentence": "The dimensions of the room are 5x4 meters."
+  },
+  {
+    "word": "discuss",
+    "sentence": "They discussed the project at length."
+  },
+  {
+    "word": "disrupt",
+    "sentence": "The strike disrupted the city's transportation system."
+  },
+  {
+    "word": "distinct",
+    "sentence": "There are three distinct types of bacteria."
+  },
+  {
+    "word": "distribute",
+    "sentence": "The charity distributes food to the homeless."
+  },
+  {
+    "word": "document",
+    "sentence": "Please provide the necessary documents."
+  },
+  {
+    "word": "domain",
+    "sentence": "This topic falls within the domain of psychology."
+  },
+  {
+    "word": "dominate",
+    "sentence": "One company dominates the market."
+  },
+  {
+    "word": "duplicate",
+    "sentence": "Please make a duplicate copy of this document."
+  },
+  {
+    "word": "dynamic",
+    "sentence": "The dynamic duo won the competition."
+  },
+  {
+    "word": "economical",
+    "sentence": "The new car is very economical on fuel."
+  },
+  {
+    "word": "effective",
+    "sentence": "The new policy is very effective."
+  },
+  {
+    "word": "efficient",
+    "sentence": "The new system is very efficient."
+  },
+  {
+    "word": "effort",
+    "sentence": "She put a lot of effort into her studies."
+  },
+  {
+    "word": "elaborate",
+    "sentence": "Can you elaborate on your idea?"
+  },
+  {
+    "word": "element",
+    "sentence": "Water is an essential element for life."
+  },
+  {
+    "word": "emerge",
+    "sentence": "New technologies emerge every day."
+  },
+  {
+    "word": "emphasis",
+    "sentence": "There is an emphasis on practical skills."
+  },
+  {
+    "word": "emphasize",
+    "sentence": "The teacher emphasized the importance of homework."
+  },
+  {
+    "word": "enable",
+    "sentence": "This feature enables users to upload files."
+  },
+  {
+    "word": "encourage",
+    "sentence": "Parents should encourage their children to read."
+  },
+  {
+    "word": "endure",
+    "sentence": "He had to endure a lot of pain."
+  },
+  {
+    "word": "enhance",
+    "sentence": "These changes will enhance the quality of life."
+  },
+  {
+    "word": "enhancement",
+    "sentence": "The enhancement of the software improved its performance."
+  },
+  {
+    "word": "enterprise",
+    "sentence": "He founded a new enterprise."
+  },
+  {
+    "word": "entity",
+    "sentence": "The government is a public entity."
+  },
+  {
+    "word": "equation",
+    "sentence": "Solve the equation for x."
+  },
+  {
+    "word": "equivalent",
+    "sentence": "One dollar is equivalent to one hundred cents."
+  },
+  {
+    "word": "error",
+    "sentence": "There was an error in the calculation."
+  },
+  {
+    "word": "essential",
+    "sentence": "Water is essential for life."
+  },
+  {
+    "word": "establish",
+    "sentence": "They established a new company."
+  },
+  {
+    "word": "evaluate",
+    "sentence": "We need to evaluate the results."
+  },
+  {
+    "word": "eventual",
+    "sentence": "The eventual goal is to improve quality of life."
+  },
+  {
+    "word": "examine",
+    "sentence": "The doctor will examine you now."
+  },
+  {
+    "word": "execute",
+    "sentence": "They executed the plan perfectly."
+  },
+  {
+    "word": "expand",
+    "sentence": "The company plans to expand its operations."
+  },
+  {
+    "word": "expect",
+    "sentence": "I expect good results from you."
+  },
+  {
+    "word": "expert",
+    "sentence": "He is an expert in his field."
+  },
+  {
+    "word": "explore",
+    "sentence": "They set out to explore the new island."
+  },
+  {
+    "word": "external",
+    "sentence": "The external hard drive has a lot of storage space."
+  },
+  {
+    "word": "extract",
+    "sentence": "They extract oil from the ground."
+  },
+  {
+    "word": "facilitate",
+    "sentence": "The new software will facilitate the process."
+  },
+  {
+    "word": "facility",
+    "sentence": "The new facility will be opened next month."
+  },
+  {
+    "word": "factor",
+    "sentence": "Cost is an important factor in the decision."
+  },
+  {
+    "word": "feasible",
+    "sentence": "It's feasible to complete the project within a month."
+  },
+  {
+    "word": "feedback",
+    "sentence": "We appreciate your feedback."
+  },
+  {
+    "word": "finance",
+    "sentence": "She works in the finance department."
+  },
+  {
+    "word": "flexible",
+    "sentence": "The schedule is flexible."
+  },
+  {
+    "word": "focus",
+    "sentence": "She needs to focus on her studies."
+  },
+  {
+    "word": "forecast",
+    "sentence": "The weather forecast predicts rain tomorrow."
+  },
+  {
+    "word": "framework",
+    "sentence": "The framework of the building is solid."
+  },
+  {
+    "word": "fundamental",
+    "sentence": "Understanding the basics is fundamental to progress."
+  },
+  {
+    "word": "furthermore",
+    "sentence": "The report is well written; furthermore"
+  },
+  {
+    "word": "generate",
+    "sentence": "This machine generates electricity."
+  },
+  {
+    "word": "genuine",
+    "sentence": "She gave a genuine smile."
+  },
+  {
+    "word": "global",
+    "sentence": "Climate change is a global issue."
+  },
+  {
+    "word": "goal",
+    "sentence": "The main goal is to increase sales."
+  },
+  {
+    "word": "governance",
+    "sentence": "Good governance is essential for development."
+  },
+  {
+    "word": "grant",
+    "sentence": "He was granted a scholarship."
+  },
+  {
+    "word": "guarantee",
+    "sentence": "They guarantee their products for a year."
+  },
+  {
+    "word": "hazard",
+    "sentence": "Smoking is a health hazard."
+  },
+  {
+    "word": "hierarchy",
+    "sentence": "The company's hierarchy is clear and well-defined."
+  },
+  {
+    "word": "highlight",
+    "sentence": "The speaker highlighted the key points."
+  },
+  {
+    "word": "hostile",
+    "sentence": "The environment was very hostile."
+  },
+  {
+    "word": "humanitarian",
+    "sentence": "They provided humanitarian aid to the refugees."
+  },
+  {
+    "word": "hybrid",
+    "sentence": "The car is a hybrid of electric and gasoline power."
+  },
+  {
+    "word": "identify",
+    "sentence": "Can you identify the error?"
+  },
+  {
+    "word": "identity",
+    "sentence": "She kept her identity a secret."
+  },
+  {
+    "word": "illustrate",
+    "sentence": "He used diagrams to illustrate his point."
+  },
+  {
+    "word": "impact",
+    "sentence": "The new law had a significant impact."
+  },
+  {
+    "word": "implement",
+    "sentence": "We need to implement the new strategy."
+  },
+  {
+    "word": "imply",
+    "sentence": "His tone implied disapproval."
+  },
+  {
+    "word": "improve",
+    "sentence": "We need to improve our services."
+  },
+  {
+    "word": "include",
+    "sentence": "The package includes free shipping."
+  },
+  {
+    "word": "income",
+    "sentence": "His monthly income is very high."
+  },
+  {
+    "word": "indeed",
+    "sentence": "She is indeed a talented artist."
+  },
+  {
+    "word": "indicate",
+    "sentence": "The data indicates a positive trend."
+  },
+  {
+    "word": "indication",
+    "sentence": "There is no indication of any problems."
+  },
+  {
+    "word": "induce",
+    "sentence": "The medication will induce sleep."
+  },
+  {
+    "word": "inevitable",
+    "sentence": "Change is inevitable."
+  },
+  {
+    "word": "influence",
+    "sentence": "Her ideas have influenced many people."
+  },
+  {
+    "word": "infrastructure",
+    "sentence": "The city needs to improve its infrastructure."
+  },
+  {
+    "word": "inhibit",
+    "sentence": "Fear can inhibit progress."
+  },
+  {
+    "word": "initial",
+    "sentence": "The initial phase of the project is complete."
+  },
+  {
+    "word": "initiate",
+    "sentence": "They decided to initiate the project."
+  },
+  {
+    "word": "innovate",
+    "sentence": "Companies must innovate to stay competitive."
+  },
+  {
+    "word": "innovation",
+    "sentence": "Innovation is key to staying competitive."
+  },
+  {
+    "word": "input",
+    "sentence": "We need your input on the new design."
+  },
+  {
+    "word": "inspire",
+    "sentence": "The story inspired her to write."
+  },
+  {
+    "word": "install",
+    "sentence": "He will install the new software."
+  },
+  {
+    "word": "instance",
+    "sentence": "This is an instance of good practice."
+  },
+  {
+    "word": "integrate",
+    "sentence": "We need to integrate new technologies into our systems."
+  },
+  {
+    "word": "integrity",
+    "sentence": "Integrity is a core value of the company."
+  },
+  {
+    "word": "intellectual",
+    "sentence": "She enjoys intellectual discussions."
+  },
+  {
+    "word": "intensive",
+    "sentence": "The course was very intensive."
+  },
+  {
+    "word": "interact",
+    "sentence": "Students should interact with their teachers."
+  },
+  {
+    "word": "interface",
+    "sentence": "The user interface is very intuitive."
+  },
+  {
+    "word": "intermediate",
+    "sentence": "This book is for intermediate learners."
+  },
+  {
+    "word": "internal",
+    "sentence": "The company has internal policies."
+  },
+  {
+    "word": "interpret",
+    "sentence": "Can you interpret this data?"
+  },
+  {
+    "word": "interval",
+    "sentence": "There was an interval of ten minutes between the two acts."
+  },
+  {
+    "word": "intervene",
+    "sentence": "The government decided to intervene in the conflict."
+  },
+  {
+    "word": "intimate",
+    "sentence": "They have an intimate relationship."
+  },
+  {
+    "word": "intricate",
+    "sentence": "The design is very intricate."
+  },
+  {
+    "word": "introduce",
+    "sentence": "She will introduce the new manager."
+  },
+  {
+    "word": "invalid",
+    "sentence": "The password you entered is invalid."
+  },
+  {
+    "word": "inventory",
+    "sentence": "We need to update our inventory."
+  },
+  {
+    "word": "invest",
+    "sentence": "He decided to invest in real estate."
+  },
+  {
+    "word": "investigate",
+    "sentence": "The police are investigating the crime."
+  },
+  {
+    "word": "invisible",
+    "sentence": "The bacteria are invisible to the naked eye."
+  },
+  {
+    "word": "involve",
+    "sentence": "The project will involve several departments."
+  },
+  {
+    "word": "issue",
+    "sentence": "The main issue is lack of funding."
+  },
+  {
+    "word": "item",
+    "sentence": "Please check each item on the list."
+  },
+  {
+    "word": "justify",
+    "sentence": "He tried to justify his actions."
+  },
+  {
+    "word": "keen",
+    "sentence": "She is keen to learn new things."
+  },
+  {
+    "word": "label",
+    "sentence": "The label on the bottle was in French."
+  },
+  {
+    "word": "lack",
+    "sentence": "There is a lack of resources."
+  },
+  {
+    "word": "launch",
+    "sentence": "The company plans to launch a new product."
+  },
+  {
+    "word": "lead",
+    "sentence": "She leads the marketing team."
+  },
+  {
+    "word": "legacy",
+    "sentence": "His legacy lives on through his work."
+  },
+  {
+    "word": "legal",
+    "sentence": "They sought legal advice."
+  },
+  {
+    "word": "leverage",
+    "sentence": "He leveraged his experience to get the job."
+  },
+  {
+    "word": "license",
+    "sentence": "You need a license to drive."
+  },
+  {
+    "word": "likelihood",
+    "sentence": "There is a high likelihood of success."
+  },
+  {
+    "word": "limit",
+    "sentence": "They imposed a limit on the number of participants."
+  },
+  {
+    "word": "link",
+    "sentence": "Click on the link to access the document."
+  },
+  {
+    "word": "logical",
+    "sentence": "His argument is logical."
+  },
+  {
+    "word": "maintain",
+    "sentence": "It's important to maintain good health."
+  },
+  {
+    "word": "major",
+    "sentence": "This is a major issue."
+  },
+  {
+    "word": "manage",
+    "sentence": "He manages a large team."
+  },
+  {
+    "word": "manageable",
+    "sentence": "The task is manageable."
+  },
+  {
+    "word": "mandatory",
+    "sentence": "Attendance is mandatory."
+  },
+  {
+    "word": "manipulate",
+    "sentence": "He can manipulate the data easily."
+  },
+  {
+    "word": "manual",
+    "sentence": "The car has a manual transmission."
+  },
+  {
+    "word": "margin",
+    "sentence": "The margin for error is very small."
+  },
+  {
+    "word": "marketplace",
+    "sentence": "The marketplace was very busy."
+  },
+  {
+    "word": "material",
+    "sentence": "The material is very durable."
+  },
+  {
+    "word": "maximize",
+    "sentence": "We need to maximize our profits."
+  },
+  {
+    "word": "measure",
+    "sentence": "They measure the room before buying furniture."
+  },
+  {
+    "word": "measures",
+    "sentence": "Measures were taken to stabilize the economy."
+  },
+  {
+    "word": "medium",
+    "sentence": "The shirt is a medium size."
+  },
+  {
+    "word": "memorandum",
+    "sentence": "He sent a memorandum to all employees."
+  },
+  {
+    "word": "mental",
+    "sentence": "Mental health is very important."
+  },
+  {
+    "word": "merit",
+    "sentence": "She was promoted on merit."
+  },
+  {
+    "word": "migrate",
+    "sentence": "Birds migrate south for the winter."
+  },
+  {
+    "word": "minimize",
+    "sentence": "We need to minimize costs."
+  },
+  {
+    "word": "mission",
+    "sentence": "The mission was a success."
+  },
+  {
+    "word": "model",
+    "sentence": "The architect showed us a model of the building."
+  },
+  {
+    "word": "modify",
+    "sentence": "The design was modified to improve performance."
+  },
+  {
+    "word": "monitor",
+    "sentence": "We need to monitor the progress of the project."
+  },
+  {
+    "word": "motivate",
+    "sentence": "Good leaders motivate their teams."
+  },
+  {
+    "word": "multimedia",
+    "sentence": "The presentation included multimedia elements."
+  },
+  {
+    "word": "negotiate",
+    "sentence": "They need to negotiate the terms of the agreement."
+  },
+  {
+    "word": "neutral",
+    "sentence": "The judge remained neutral throughout the trial."
+  },
+  {
+    "word": "nominate",
+    "sentence": "She was nominated for an award."
+  },
+  {
+    "word": "norm",
+    "sentence": "It's the norm to greet people with a handshake."
+  },
+  {
+    "word": "notion",
+    "sentence": "The notion of freedom is central to democracy."
+  },
+  {
+    "word": "object",
+    "sentence": "The object on the table is a book."
+  },
+  {
+    "word": "objective",
+    "sentence": "The main objective is to improve customer satisfaction."
+  },
+  {
+    "word": "observe",
+    "sentence": "Scientists observe the behavior of animals."
+  },
+  {
+    "word": "obtain",
+    "sentence": "She managed to obtain the information."
+  },
+  {
+    "word": "occupy",
+    "sentence": "The rebels occupy the city."
+  },
+  {
+    "word": "ongoing",
+    "sentence": "The project is ongoing."
+  },
+  {
+    "word": "online",
+    "sentence": "Many courses are available online."
+  },
+  {
+    "word": "operate",
+    "sentence": "The machine operates smoothly."
+  },
+  {
+    "word": "operational",
+    "sentence": "The factory is now fully operational."
+  },
+  {
+    "word": "optimal",
+    "sentence": "We need to find the optimal solution."
+  },
+  {
+    "word": "optimize",
+    "sentence": "We need to optimize our processes to increase efficiency."
+  },
+  {
+    "word": "organize",
+    "sentence": "She helps to organize the event."
+  },
+  {
+    "word": "outcome",
+    "sentence": "The outcome of the experiment was surprising."
+  },
+  {
+    "word": "outline",
+    "sentence": "He gave an outline of his plan."
+  },
+  {
+    "word": "output",
+    "sentence": "The output of the factory has increased."
+  },
+  {
+    "word": "overcome",
+    "sentence": "She overcame her fear of heights."
+  },
+  {
+    "word": "overview",
+    "sentence": "The document provides an overview of the project."
+  },
+  {
+    "word": "parallel",
+    "sentence": "The two roads run parallel to each other."
+  },
+  {
+    "word": "parameter",
+    "sentence": "We need to define the parameters of the project."
+  },
+  {
+    "word": "participant",
+    "sentence": "Each participant received a certificate."
+  },
+  {
+    "word": "participate",
+    "sentence": "Everyone is encouraged to participate in the discussion."
+  },
+  {
+    "word": "perception",
+    "sentence": "Perception of the issue varies among people."
+  },
+  {
+    "word": "performance",
+    "sentence": "The team’s performance was excellent."
+  },
+  {
+    "word": "period",
+    "sentence": "The Renaissance was a period of great cultural change."
+  },
+  {
+    "word": "permission",
+    "sentence": "You need permission to enter the building."
+  },
+  {
+    "word": "persist",
+    "sentence": "She persisted in her efforts despite the difficulties."
+  },
+  {
+    "word": "personal",
+    "sentence": "Keep your personal belongings with you."
+  },
+  {
+    "word": "perspective",
+    "sentence": "Try to see the situation from a different perspective."
+  },
+  {
+    "word": "persuade",
+    "sentence": "He persuaded her to join the team."
+  },
+  {
+    "word": "phase",
+    "sentence": "The project is in its final phase."
+  },
+  {
+    "word": "phenomenon",
+    "sentence": "The phenomenon of global warming is well-documented."
+  },
+  {
+    "word": "philosophy",
+    "sentence": "He studied philosophy in college."
+  },
+  {
+    "word": "plan",
+    "sentence": "They plan to expand the business."
+  },
+  {
+    "word": "platform",
+    "sentence": "The train arrives at platform 2."
+  },
+  {
+    "word": "plausible",
+    "sentence": "It’s a plausible explanation."
+  },
+  {
+    "word": "policy",
+    "sentence": "The company has a strict policy on attendance."
+  },
+  {
+    "word": "portion",
+    "sentence": "A portion of the proceeds will go to charity."
+  },
+  {
+    "word": "potential",
+    "sentence": "She has the potential to be a great leader."
+  },
+  {
+    "word": "precedent",
+    "sentence": "There is no precedent for this decision."
+  },
+  {
+    "word": "precise",
+    "sentence": "We need precise measurements for the project."
+  },
+  {
+    "word": "predict",
+    "sentence": "It’s hard to predict the outcome."
+  },
+  {
+    "word": "preference",
+    "sentence": "She has a preference for classical music."
+  },
+  {
+    "word": "premium",
+    "sentence": "The insurance premium is due next month."
+  },
+  {
+    "word": "prescribe",
+    "sentence": "The doctor will prescribe medication."
+  },
+  {
+    "word": "presence",
+    "sentence": "Your presence at the meeting is required."
+  },
+  {
+    "word": "prevent",
+    "sentence": "Measures were taken to prevent accidents."
+  },
+  {
+    "word": "primary",
+    "sentence": "Education is a primary concern for many parents."
+  },
+  {
+    "word": "prioritize",
+    "sentence": "We need to prioritize our tasks for today."
+  },
+  {
+    "word": "priority",
+    "sentence": "We need to set our priorities straight."
+  },
+  {
+    "word": "procedure",
+    "sentence": "Follow the proper procedure for safety."
+  },
+  {
+    "word": "proceed",
+    "sentence": "After the interruption,  we can proceed with our meeting."
+  },
+  {
+    "word": "process",
+    "sentence": "The hiring process can take several weeks."
+  },
+  {
+    "word": "productivity",
+    "sentence": "The new software aims to increase productivity."
+  },
+  {
+    "word": "profitable",
+    "sentence": "The business has been very profitable."
+  },
+  {
+    "word": "program",
+    "sentence": "The new program will be launched next month."
+  },
+  {
+    "word": "project",
+    "sentence": "We are working on a new project."
+  },
+  {
+    "word": "prominent",
+    "sentence": "She is a prominent figure in the industry."
+  },
+  {
+    "word": "promote",
+    "sentence": "The campaign aims to promote healthy eating."
+  },
+  {
+    "word": "property",
+    "sentence": "The chemical properties of the substance are well-known."
+  },
+  {
+    "word": "propose",
+    "sentence": "He proposed a new solution to the problem."
+  },
+  {
+    "word": "prospect",
+    "sentence": "The prospects for growth are promising."
+  },
+  {
+    "word": "protocol",
+    "sentence": "Follow the protocol to avoid errors."
+  },
+  {
+    "word": "provide",
+    "sentence": "The company provides training for employees."
+  },
+  {
+    "word": "public",
+    "sentence": "The event is open to the public."
+  },
+  {
+    "word": "purchase",
+    "sentence": "He plans to purchase a new car."
+  },
+  {
+    "word": "pursue",
+    "sentence": "She decided to pursue a career in medicine."
+  },
+  {
+    "word": "qualify",
+    "sentence": "She qualifies for the scholarship."
+  },
+  {
+    "word": "qualitative",
+    "sentence": "Qualitative research focuses on understanding behavior."
+  },
+  {
+    "word": "quantify",
+    "sentence": "It’s difficult to quantify the impact of the new policy."
+  },
+  {
+    "word": "quantity",
+    "sentence": "We need a large quantity of materials."
+  },
+  {
+    "word": "quote",
+    "sentence": "She quoted a famous author in her speech."
+  },
+  {
+    "word": "radical",
+    "sentence": "The changes made were radical."
+  },
+  {
+    "word": "random",
+    "sentence": "The numbers were chosen at random."
+  },
+  {
+    "word": "range",
+    "sentence": "The product has a wide range of features."
+  },
+  {
+    "word": "rarely",
+    "sentence": "He rarely misses a class."
+  },
+  {
+    "word": "rate",
+    "sentence": "The interest rate has increased."
+  },
+  {
+    "word": "ratio",
+    "sentence": "The ratio of students to teachers is high."
+  },
+  {
+    "word": "react",
+    "sentence": "How did he react to the news?"
+  },
+  {
+    "word": "readiness",
+    "sentence": "The team showed readiness to start the project."
+  },
+  {
+    "word": "realistic",
+    "sentence": "Set realistic goals for yourself."
+  },
+  {
+    "word": "realize",
+    "sentence": "She realized the importance of the project."
+  },
+  {
+    "word": "recession",
+    "sentence": "The economy is in a recession."
+  },
+  {
+    "word": "recognize",
+    "sentence": "I recognize your hard work and dedication."
+  },
+  {
+    "word": "recommend",
+    "sentence": "Can you recommend a good restaurant?"
+  },
+  {
+    "word": "reconstruct",
+    "sentence": "They plan to reconstruct the old building."
+  },
+  {
+    "word": "record",
+    "sentence": "Please record your observations."
+  },
+  {
+    "word": "recover",
+    "sentence": "He needs time to recover from his illness."
+  },
+  {
+    "word": "reduce",
+    "sentence": "We need to reduce our expenses."
+  },
+  {
+    "word": "refine",
+    "sentence": "We need to refine our strategy."
+  },
+  {
+    "word": "reflect",
+    "sentence": "The mirror reflects light."
+  },
+  {
+    "word": "refresh",
+    "sentence": "Refresh the page to see the latest updates."
+  },
+  {
+    "word": "regional",
+    "sentence": "There are regional differences in dialect."
+  },
+  {
+    "word": "register",
+    "sentence": "You need to register for the conference."
+  },
+  {
+    "word": "regulate",
+    "sentence": "The thermostat regulates the room temperature."
+  },
+  {
+    "word": "reject",
+    "sentence": "The proposal was rejected."
+  },
+  {
+    "word": "relate",
+    "sentence": "How does this issue relate to our work?"
+  },
+  {
+    "word": "release",
+    "sentence": "The company will release a new product next month."
+  },
+  {
+    "word": "reliability",
+    "sentence": "The reliability of the system is crucial."
+  },
+  {
+    "word": "rely",
+    "sentence": "You can rely on her support."
+  },
+  {
+    "word": "remainder",
+    "sentence": "The remainder of the funds will be allocated next year."
+  },
+  {
+    "word": "remedy",
+    "sentence": "The best remedy for a cold is rest and fluids."
+  },
+  {
+    "word": "remote",
+    "sentence": "He lives in a remote village."
+  },
+  {
+    "word": "remove",
+    "sentence": "Please remove your shoes before entering."
+  },
+  {
+    "word": "renounce",
+    "sentence": "He decided to renounce his claim to the throne."
+  },
+  {
+    "word": "replace",
+    "sentence": "We need to replace the old equipment."
+  },
+  {
+    "word": "report",
+    "sentence": "She will report the findings to the committee."
+  },
+  {
+    "word": "represent",
+    "sentence": "The lawyer will represent the client in court."
+  },
+  {
+    "word": "request",
+    "sentence": "They made a request for additional funding."
+  },
+  {
+    "word": "require",
+    "sentence": "The job requires technical skills."
+  },
+  {
+    "word": "requirement",
+    "sentence": "What are the requirements for the job?"
+  },
+  {
+    "word": "rescue",
+    "sentence": "The firefighters rescued the trapped passengers."
+  },
+  {
+    "word": "reset",
+    "sentence": "You need to reset your password."
+  },
+  {
+    "word": "reside",
+    "sentence": "They reside in a small town."
+  },
+  {
+    "word": "resilience",
+    "sentence": "She showed great resilience in the face of adversity."
+  },
+  {
+    "word": "resist",
+    "sentence": "It's hard to resist the temptation."
+  },
+  {
+    "word": "resolution",
+    "sentence": "The resolution of the image is very high."
+  },
+  {
+    "word": "resolve",
+    "sentence": "We need to resolve this issue quickly."
+  },
+  {
+    "word": "resource",
+    "sentence": "Water is a valuable resource."
+  },
+  {
+    "word": "respect",
+    "sentence": "They respect each other's opinions."
+  },
+  {
+    "word": "respond",
+    "sentence": "How did he respond to the news?"
+  },
+  {
+    "word": "restore",
+    "sentence": "The museum plans to restore the old painting."
+  },
+  {
+    "word": "restraint",
+    "sentence": "He showed great restraint in the argument."
+  },
+  {
+    "word": "restrict",
+    "sentence": "The new law will restrict access to certain areas."
+  },
+  {
+    "word": "retain",
+    "sentence": "It's important to retain good employees."
+  },
+  {
+    "word": "retreat",
+    "sentence": "The soldiers were forced to retreat."
+  },
+  {
+    "word": "reveal",
+    "sentence": "The test results will reveal the truth."
+  },
+  {
+    "word": "reverse",
+    "sentence": "The decision was reversed."
+  },
+  {
+    "word": "review",
+    "sentence": "We will review the proposal in the next meeting."
+  },
+  {
+    "word": "revise",
+    "sentence": "You should revise your essay before submitting it."
+  },
+  {
+    "word": "revolution",
+    "sentence": "The industrial revolution changed the world."
+  },
+  {
+    "word": "risk",
+    "sentence": "There is a risk of failure."
+  },
+  {
+    "word": "routine",
+    "sentence": "Exercise should be part of your daily routine."
+  },
+  {
+    "word": "ruin",
+    "sentence": "The storm ruined the crops."
+  },
+  {
+    "word": "sacrifice",
+    "sentence": "He sacrificed his time to help others."
+  },
+  {
+    "word": "satisfaction",
+    "sentence": "Customer satisfaction is our top priority."
+  },
+  {
+    "word": "scale",
+    "sentence": "The map is drawn to scale."
+  },
+  {
+    "word": "scheme",
+    "sentence": "They devised a scheme to increase sales."
+  },
+  {
+    "word": "scope",
+    "sentence": "The scope of the project is limited."
+  },
+  {
+    "word": "screen",
+    "sentence": "The movie will be shown on the big screen."
+  },
+  {
+    "word": "script",
+    "sentence": "The script for the play is excellent."
+  },
+  {
+    "word": "sector",
+    "sentence": "The public sector employs many people."
+  },
+  {
+    "word": "secure",
+    "sentence": "We need to secure the area before proceeding."
+  },
+  {
+    "word": "select",
+    "sentence": "Please select the option that best fits your needs."
+  },
+  {
+    "word": "separate",
+    "sentence": "Separate the recyclables from the trash."
+  },
+  {
+    "word": "series",
+    "sentence": "The book is part of a series."
+  },
+  {
+    "word": "service",
+    "sentence": "The customer service was excellent."
+  },
+  {
+    "word": "settle",
+    "sentence": "They decided to settle in the countryside."
+  },
+  {
+    "word": "shift",
+    "sentence": "He works the night shift."
+  },
+  {
+    "word": "significant",
+    "sentence": "The changes made were significant."
+  },
+  {
+    "word": "similarity",
+    "sentence": "There is a similarity between the two cases."
+  },
+  {
+    "word": "simplify",
+    "sentence": "The instructions need to be simplified."
+  },
+  {
+    "word": "simulate",
+    "sentence": "The program can simulate various scenarios."
+  },
+  {
+    "word": "site",
+    "sentence": "This is a construction site."
+  },
+  {
+    "word": "solution",
+    "sentence": "We need a solution to this problem."
+  },
+  {
+    "word": "solve",
+    "sentence": "We need to solve this problem quickly."
+  },
+  {
+    "word": "source",
+    "sentence": "The river is the source of drinking water."
+  },
+  {
+    "word": "specific",
+    "sentence": "I need a specific answer to my question."
+  },
+  {
+    "word": "specify",
+    "sentence": "Please specify the details of your request."
+  },
+  {
+    "word": "specimen",
+    "sentence": "The museum has a specimen of a rare butterfly."
+  },
+  {
+    "word": "spill",
+    "sentence": "Be careful not to spill the milk."
+  },
+  {
+    "word": "split",
+    "sentence": "They decided to split the profits."
+  },
+  {
+    "word": "sponsor",
+    "sentence": "The event was sponsored by several companies."
+  },
+  {
+    "word": "stabilize",
+    "sentence": "Measures were taken to stabilize the economy."
+  },
+  {
+    "word": "stable",
+    "sentence": "The table is stable and doesn't wobble."
+  },
+  {
+    "word": "stage",
+    "sentence": "We are at the final stage of the project."
+  },
+  {
+    "word": "standard",
+    "sentence": "This product meets all safety standards."
+  },
+  {
+    "word": "startling",
+    "sentence": "The results of the study were startling."
+  },
+  {
+    "word": "status",
+    "sentence": "What is the current status of the project?"
+  },
+  {
+    "word": "statute",
+    "sentence": "The statute was passed by the government."
+  },
+  {
+    "word": "steer",
+    "sentence": "He steered the car through the narrow streets."
+  },
+  {
+    "word": "stimulate",
+    "sentence": "The government introduced measures to stimulate the economy."
+  },
+  {
+    "word": "storage",
+    "sentence": "The files are kept in storage."
+  },
+  {
+    "word": "strategy",
+    "sentence": "We need a new strategy to win the market."
+  },
+  {
+    "word": "streamline",
+    "sentence": "The company streamlined its operations to reduce costs."
+  },
+  {
+    "word": "stress",
+    "sentence": "She stressed the importance of punctuality."
+  },
+  {
+    "word": "stretch",
+    "sentence": "She stretched before starting her workout."
+  },
+  {
+    "word": "structure",
+    "sentence": "The structure of the company is hierarchical."
+  },
+  {
+    "word": "style",
+    "sentence": "Her writing style is very distinctive."
+  },
+  {
+    "word": "submit",
+    "sentence": "Please submit your application by the deadline."
+  },
+  {
+    "word": "subsequent",
+    "sentence": "Subsequent events proved him right."
+  },
+  {
+    "word": "subsidy",
+    "sentence": "The government provides subsidies to farmers."
+  },
+  {
+    "word": "succeed",
+    "sentence": "She worked hard to succeed in her career."
+  },
+  {
+    "word": "successive",
+    "sentence": "He won three successive championships."
+  },
+  {
+    "word": "suggest",
+    "sentence": "Can you suggest a good restaurant?"
+  },
+  {
+    "word": "summarize",
+    "sentence": "Can you summarize the main points of the discussion?"
+  },
+  {
+    "word": "summary",
+    "sentence": "Here is a summary of the meeting."
+  },
+  {
+    "word": "support",
+    "sentence": "We appreciate your support."
+  },
+  {
+    "word": "suppose",
+    "sentence": "I suppose you are right."
+  },
+  {
+    "word": "surplus",
+    "sentence": "The company had a surplus of goods."
+  },
+  {
+    "word": "suspect",
+    "sentence": "I suspect that he knows more than he’s saying."
+  },
+  {
+    "word": "sustain",
+    "sentence": "It is important to sustain the progress we have made."
+  },
+  {
+    "word": "symbol",
+    "sentence": "The dove is a symbol of peace."
+  },
+  {
+    "word": "symptom",
+    "sentence": "Fever is a common symptom of the flu."
+  },
+  {
+    "word": "system",
+    "sentence": "The new system is more efficient."
+  },
+  {
+    "word": "target",
+    "sentence": "Our target is to increase sales by 20%."
+  },
+  {
+    "word": "task",
+    "sentence": "He was assigned a difficult task."
+  },
+  {
+    "word": "technique",
+    "sentence": "He used a new technique to solve the problem."
+  },
+  {
+    "word": "temporary",
+    "sentence": "She found a temporary job."
+  },
+  {
+    "word": "tendency",
+    "sentence": "There is a tendency to avoid conflict."
+  },
+  {
+    "word": "terminate",
+    "sentence": "The contract was terminated due to non-compliance."
+  },
+  {
+    "word": "testimony",
+    "sentence": "Her testimony was crucial to the case."
+  },
+  {
+    "word": "theme",
+    "sentence": "The theme of the story is love and loss."
+  },
+  {
+    "word": "theory",
+    "sentence": "The theory of evolution explains how species change over time."
+  },
+  {
+    "word": "therapy",
+    "sentence": "Physical therapy helped her recover."
+  },
+  {
+    "word": "therefore",
+    "sentence": "He was ill"
+  },
+  {
+    "word": "threshold",
+    "sentence": "The pain threshold varies from person to person."
+  },
+  {
+    "word": "timeframe",
+    "sentence": "We need to complete the project within the given timeframe."
+  },
+  {
+    "word": "title",
+    "sentence": "The title of the book is \"Pride and Prejudice\"."
+  },
+  {
+    "word": "tolerate",
+    "sentence": "I can’t tolerate loud noises."
+  },
+  {
+    "word": "topic",
+    "sentence": "The topic of discussion was climate change."
+  },
+  {
+    "word": "trace",
+    "sentence": "Can you trace the source of the problem?"
+  },
+  {
+    "word": "trademark",
+    "sentence": "The logo is a registered trademark."
+  },
+  {
+    "word": "transaction",
+    "sentence": "All transactions are recorded."
+  },
+  {
+    "word": "transfer",
+    "sentence": "He was transferred to another department."
+  },
+  {
+    "word": "transform",
+    "sentence": "The caterpillar will transform into a butterfly."
+  },
+  {
+    "word": "transient",
+    "sentence": "The pain was transient."
+  },
+  {
+    "word": "transition",
+    "sentence": "The country is in a period of transition."
+  },
+  {
+    "word": "translate",
+    "sentence": "Can you translate this document into English?"
+  },
+  {
+    "word": "transmit",
+    "sentence": "The virus can be transmitted through contact."
+  },
+  {
+    "word": "transport",
+    "sentence": "The goods were transported by ship."
+  },
+  {
+    "word": "traverse",
+    "sentence": "They traversed the desert on camels."
+  },
+  {
+    "word": "treatment",
+    "sentence": "She is undergoing treatment for cancer."
+  },
+  {
+    "word": "trend",
+    "sentence": "There is a growing trend towards remote work."
+  },
+  {
+    "word": "trigger",
+    "sentence": "The event triggered a series of protests."
+  },
+  {
+    "word": "ultimate",
+    "sentence": "The ultimate goal is to achieve peace."
+  },
+  {
+    "word": "underestimate",
+    "sentence": "Don't underestimate the power of teamwork."
+  },
+  {
+    "word": "underline",
+    "sentence": "Please underline the important points."
+  },
+  {
+    "word": "undertake",
+    "sentence": "He undertook the task without hesitation."
+  },
+  {
+    "word": "uniform",
+    "sentence": "The students wear a school uniform."
+  },
+  {
+    "word": "unify",
+    "sentence": "The goal is to unify the different departments."
+  },
+  {
+    "word": "unique",
+    "sentence": "Each person's fingerprint is unique."
+  },
+  {
+    "word": "unit",
+    "sentence": "The apartment has two bedrooms and one living unit."
+  },
+  {
+    "word": "universal",
+    "sentence": "Education is a universal right."
+  },
+  {
+    "word": "update",
+    "sentence": "We need to update the software."
+  },
+  {
+    "word": "upgrade",
+    "sentence": "They decided to upgrade their system."
+  },
+  {
+    "word": "uphold",
+    "sentence": "The court upheld the decision."
+  },
+  {
+    "word": "usage",
+    "sentence": "The usage of this software is increasing."
+  },
+  {
+    "word": "utilize",
+    "sentence": "We need to utilize all available resources."
+  },
+  {
+    "word": "validate",
+    "sentence": "Can you validate this information?"
+  },
+  {
+    "word": "value",
+    "sentence": "Education has great value."
+  },
+  {
+    "word": "variable",
+    "sentence": "The weather is highly variable in this region."
+  },
+  {
+    "word": "venture",
+    "sentence": "They decided to venture into new markets."
+  },
+  {
+    "word": "verify",
+    "sentence": "Please verify your email address."
+  },
+  {
+    "word": "version",
+    "sentence": "The latest version of the app has new features."
+  },
+  {
+    "word": "viable",
+    "sentence": "This plan is not financially viable."
+  },
+  {
+    "word": "violate",
+    "sentence": "The company was fined for violating safety regulations."
+  },
+  {
+    "word": "vision",
+    "sentence": "He has a clear vision for the future."
+  },
+  {
+    "word": "visualize",
+    "sentence": "Try to visualize your goals."
+  },
+  {
+    "word": "volume",
+    "sentence": "The volume of traffic has increased."
+  },
+  {
+    "word": "warrant",
+    "sentence": "His actions warrant an investigation."
+  },
+  {
+    "word": "waste",
+    "sentence": "Don’t waste your time on trivial matters."
+  },
+  {
+    "word": "welfare",
+    "sentence": "The government should ensure the welfare of its citizens."
+  },
+  {
+    "word": "withdraw",
+    "sentence": "She decided to withdraw from the competition."
+  },
+  {
+    "word": "witness",
+    "sentence": "He witnessed the event firsthand."
+  },
+  {
+    "word": "workforce",
+    "sentence": "The company needs to attract a skilled workforce."
+  },
+  {
+    "word": "worthy",
+    "sentence": "She is worthy of the award."
+  },
+  {
+    "word": "yield",
+    "sentence": "The investment yielded good returns."
+  }
+]

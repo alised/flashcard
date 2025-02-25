@@ -455,7 +455,7 @@ document.addEventListener("DOMContentLoaded", function () {
       typeof word.box == "undefined"
         ? "0"
         : word.box == "1"
-        ? word.box + ".".word.daysInBox1
+        ? word.box + "." + word.daysInBox1
         : word.box;
     const sentence = word.sentence.replace(
       new RegExp(`\\b${baseWord}(es|ed|ing|ies|ied|ted|e|y|s|d)?`, "gi"),
