@@ -38,7 +38,7 @@ The **English Word Learner App** is a web-based application designed to help use
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/english-word-learner.git
+   git clone https://github.com/alised/flashcard.git
    cd english-word-learner
    ```
 
