@@ -591,7 +591,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "progressPercentage"
       ).textContent = `${progressPercentage}%`;
     } else {
-      document.getElementById("progressPercentage").textContent = "۰٪";
+      document.getElementById("progressPercentage").textContent = "0%";
     }
   }
 
