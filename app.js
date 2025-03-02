@@ -26,6 +26,9 @@ document.addEventListener("DOMContentLoaded", function () {
     db = event.target.result;
     //loadWords();
     loadPracticeWords();
+	
+	//fix empty voices in chrome
+	speechSynthesis.getVoices()
   };
 
   request.onerror = function (event) {
