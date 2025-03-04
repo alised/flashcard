@@ -265,6 +265,7 @@ document.addEventListener("DOMContentLoaded", function () {
         document.getElementById("understand-btn").style.display = "none";
         document.getElementById("dont-understand-btn").style.display = "none";
         document.getElementById("start-btn").style.display = "none";
+        document.getElementById("play-control").style.display = "none";
         document.getElementById("progress-section").style.display = "none";
         document.getElementById("sentence").textContent =
           "No words to practice today.";
@@ -272,6 +273,7 @@ document.addEventListener("DOMContentLoaded", function () {
         document.getElementById("understand-btn").style.display = "none";
         document.getElementById("dont-understand-btn").style.display = "none";
         document.getElementById("start-btn").style.display = "";
+        document.getElementById("play-control").style.display = "none";
         document.getElementById("progress-section").style.display = "none";
         document.getElementById(
           "sentence"
@@ -406,6 +408,11 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   function speak(sentence) {
+    // Cancel any ongoing speech synthesis
+    if (window.speechSynthesis.speaking) {
+      window.speechSynthesis.cancel();
+    }
+
     // create a new speech
     let speech = new SpeechSynthesisUtterance();
 
@@ -421,15 +428,40 @@ document.addEventListener("DOMContentLoaded", function () {
     speech.pitch = 1;
     speech.volume = 1;
 
+    // Update UI when speech starts
+    speech.onstart = () => {
+      document.getElementById("play-control").classList.remove("active");
+    };
+
+    // Update UI when speech ends
+    speech.onend = () => {
+      document.getElementById("play-control").classList.add("active");
+    };
+
     // speak it!
     window.speechSynthesis.speak(speech);
   }
+
+  // Play button: Replay the current sentence
+  document.getElementById("play-control").addEventListener("click", () => {
+    if (document.getElementById("play-control").classList.contains("active")) {
+      const word = wordsDue[currentWordIndex];
+      const currentSentence = word.sentence;
+      speak(currentSentence);
+    } else {
+      if (window.speechSynthesis.speaking) {
+        window.speechSynthesis.cancel();
+      }
+      document.getElementById("play-control").classList.add("active");
+    }
+  });
 
   function showNextWord() {
     if (wordsDue.length === 0) {
       document.getElementById("understand-btn").style.display = "none";
       document.getElementById("dont-understand-btn").style.display = "none";
       document.getElementById("start-btn").style.display = "";
+      document.getElementById("play-control").style.display = "none";
       document.getElementById("sentence").textContent =
         "No words to practice today.";
       return;
@@ -441,6 +473,7 @@ document.addEventListener("DOMContentLoaded", function () {
       document.getElementById("understand-btn").style.display = "none";
       document.getElementById("dont-understand-btn").style.display = "none";
       document.getElementById("start-btn").style.display = "";
+      document.getElementById("play-control").style.display = "none";
       document.getElementById("sentence").textContent =
         "Congratulations! You have completed all the words for today.";
       updateRemainingQuestions();
@@ -503,6 +536,7 @@ document.addEventListener("DOMContentLoaded", function () {
     document.getElementById("understand-btn").style.display = "";
     document.getElementById("dont-understand-btn").style.display = "";
     document.getElementById("start-btn").style.display = "none";
+    document.getElementById("play-control").style.display = "";
     document.getElementById("progress-section").style.display = "";
     showNextWord();
   });
